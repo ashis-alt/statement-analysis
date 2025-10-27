@@ -1,6 +1,11 @@
+# in requirements.txt
 fastapi
+pandas
+openpyxl
 uvicorn
 pypdf
 python-multipart
 google-generativeai
 python-dotenv
+requests
+pdfplumber
